@@ -28,11 +28,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me : <br>Enthusiastic Junior Mobile Developer specializing in Flutter and Dart.<br>Passionate problem-solver turning ideas into smooth, modern, responsive cross-platform apps (Android & iOS).<br><br>Strong foundation in clean architecture, performant UI, and full app development.<br>Recently completed the intensive ITI 1-Month Flutter Bootcamp (120+ hours) in Tanta — built, polished, and published full-featured apps from scratch using Flutter, Dart, and Firebase.<br><br>Clean code enthusiast | Fast learner | Ready to write production-grade code and deliver real impact from day one.<br><br>Key Strengths<br>• Skilled in Flutter, Dart, Firebase (Auth, Firestore, Storage), responsive design<br>• Experience with state management (Provider/Riverpod/Bloc), REST APIs, Postman, Figma<br>• Basics in Kotlin, C++, Python, HTML/CSS<br>• Eager to ship real-world mobile apps and grow in a professional team<br>Currently pursuing Bachelor's in Computers & Informatics at Tanta University.<br>Open to junior roles, internships, or Flutter freelance opportunities.<br>Let's build something awesome! 🚀</h3>
+<h3 align="left">👩‍💻 About Me<br><br>• 📱 Junior Flutter Developer  <br>• 🔥 Passionate Mobile App Builder (Flutter & Dart)  <br>• 🚀 ITI Flutter Bootcamp Graduate (120+ hrs)  <br>• 🛠️ Skilled in Flutter, Dart, Firebase, Clean Code  <br>• ⚡ State Management | REST APIs | Postman | Figma  <br>• 🤝 Technical + Communication Blend  <br>• 🤝 HR Member at ICPC Tanta Community<br>• 💻 Passionate Problem Solver<br>• 💼 Open for Junior Roles / Internships / Freelance</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as mobile app developer<br>- 📚 I'm currently learning <br>- ⚡ In my free time , I'm trying to gain more experience in my field.</p>
+<h3 align="left">🏆 Certificates</h3>
+
+###
+
+<h4 align="left">• 🚀 Flutter Advanced Course, Bloc & MVVM  <br>• 🤖 Building LLM Applications with Prompt Engineering  <br>• 🐙 Git & GitHub from Udemy  <br>• 🧠 AI for All: From Basics to GenAI Practice – NVIDIA  <br>• 📱 Flutter & Dart Development from Udemy  <br>• 🐍 Python Basic Programming  <br>• 📲 Mobile Using Flutter from ITI  <br>• ⚙️ Data Structures & Algorithms  <br>• 🏗️ Object Oriented Programming  <br>• 💻 C++ Level 2  <br>• 🧩 Problem Solving  <br>• 🔧 C++ Level 1</h4>
 
 ###
 
@@ -40,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -66,13 +70,25 @@
 
 ###
 
+<p align="left">- 🔭 I’m working as mobile app developer<br>- 📚 I'm currently learning <br>- ⚡ In my free time , I'm trying to gain more experience in my field.</p>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=omarbadawiii-91&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/omarbadawiii-91/omarbadawiii-91/output/snake.svg" alt="Snake animation" />
 
 ###
 
