@@ -77,4 +77,8 @@
 <p align="left">- 🔭 I’m working as mobile app developer<br>- 📚 I'm currently learning <br>- ⚡ In my free time , I'm trying to gain more experience in my field.</p>
 
 ###
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW44ZXljczZobWg0c2hsOTdlempwOTdjY2V4dHR2N2t5dDNkMHV1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif"  />
+</div>
+
 
