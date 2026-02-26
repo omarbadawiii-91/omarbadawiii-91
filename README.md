@@ -1,5 +1,4 @@
-<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/d8ab0269-c610-4c63-9e49-b4865abe111d" /><div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
