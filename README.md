@@ -1,3 +1,4 @@
+<div>
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
@@ -39,10 +40,10 @@
 
 ###
 
-<h4 align="left">• 🚀 Flutter Advanced Course, Bloc & MVVM  <br>• 📱 + 💳 Flutter Payment Integration : Stripe , Paypal , and More  <br>•  🤖 Building LLM Applications with Prompt Engineering   <br>• 🐙 Git & GitHub   <br>• 🧠 AI for All: From Basics to GenAI Practice – NVIDIA  <br>• 📱 Flutter & Dart Development  <br>• 🐍 Python Basic Programming  <br>• 📲 Mobile Using Flutter from ITI  <br>• ⚙️ Data Structures & Algorithms  <br>• 🏗️ Object Oriented Programming  <br>• 💻 C++ Level 2  <br>• 🧩 Problem Solving  <br>• 🔧 C++ Level 1</h4>
+<h4 align="left">• 🚀 Flutter Advanced Course, Bloc & MVVM  <br>• 📱 + 💳 Flutter Payment Integration : Stripe , Paypal , and More  <br>•  📲 Mobile Using Flutter from ITI  <br>• 🐙 Git & GitHub   <br>• 
+  📱 Flutter & Dart Development  <br>•  📲 Mobile Using Flutter from ITI  <br>•   🤖 Building LLM Applications with Prompt Engineering  <br>• 🐍 Python Basic Programming  <br>• 🧠 AI for All: From Basics to GenAI Practice – NVIDIA  <br>•   ⚙️ Data Structures & Algorithms  <br>•   🏗️ Object Oriented Programming  <br>•  💻 C++ Level 2  <br>• 🧩 Problem Solving  <br>• 🔧 C++ Level 1</h4>
 
 ###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
