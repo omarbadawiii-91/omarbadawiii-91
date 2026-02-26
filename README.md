@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/d8ab0269-c610-4c63-9e49-b4865abe111d" /><div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me<br><br>• 📱 Junior Flutter Developer  <br>• 🔥 Passionate Mobile App Builder (Flutter & Dart)  <br>• 🚀 ITI Flutter Bootcamp Graduate (120+ hrs)  <br>• 🛠️ Skilled in Flutter, Dart, Firebase, Clean Code, MVVM & Clean Architecture<br>• ⚡ State Management | REST APIs | Postman | Figma  <br>• 🤝 Technical + Communication Blend  <br>• 🤝 HR Member at ICPC Tanta Community<br>• 💻 Passionate Problem Solver<br>• 💼 Open for Junior Roles / Internships / Freelance</h3>
+<h3 align="left">👩‍💻 About Me<br><br>• 📱 Junior Flutter Developer  <br>• 🔥 Passionate Mobile App Builder (Flutter & Dart)  <br>• 🚀 ITI Flutter Bootcamp Graduate (120+ hrs)  <br>• 🛠️ Skilled in Flutter, Dart, Firebase, Clean Code, MVVM & Clean Architecture<br>• ⚡ State Management | RESTful APIs | Postman | Figma  <br>• 🤝 Technical + Communication Blend  <br>• 🤝 HR Member at ICPC Tanta Community<br>• 💻 Passionate Problem Solver<br>• 💼 Open for Junior Roles / Internships / Freelance</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">• 🚀 Flutter Advanced Course, Bloc & MVVM  <br>• 🤖 Building LLM Applications with Prompt Engineering  <br>• 🐙 Git & GitHub from Udemy  <br>• 🧠 AI for All: From Basics to GenAI Practice – NVIDIA  <br>• 📱 Flutter & Dart Development from Udemy  <br>• 🐍 Python Basic Programming  <br>• 📲 Mobile Using Flutter from ITI  <br>• ⚙️ Data Structures & Algorithms  <br>• 🏗️ Object Oriented Programming  <br>• 💻 C++ Level 2  <br>• 🧩 Problem Solving  <br>• 🔧 C++ Level 1</h4>
+<h4 align="left">• 🚀 Flutter Advanced Course, Bloc & MVVM  <br>• 📱 + 💳 Flutter Payment Integration : Stripe , Paypal , and More  <br>•  🤖 Building LLM Applications with Prompt Engineering   <br>• 🐙 Git & GitHub   <br>• 🧠 AI for All: From Basics to GenAI Practice – NVIDIA  <br>• 📱 Flutter & Dart Development  <br>• 🐍 Python Basic Programming  <br>• 📲 Mobile Using Flutter from ITI  <br>• ⚙️ Data Structures & Algorithms  <br>• 🏗️ Object Oriented Programming  <br>• 💻 C++ Level 2  <br>• 🧩 Problem Solving  <br>• 🔧 C++ Level 1</h4>
 
 ###
 
