@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me<br><br>• 📱 Junior Flutter Developer  <br>• 🔥 Passionate Mobile App Builder (Flutter & Dart)  <br>• 🚀 ITI Flutter Bootcamp Graduate (120+ hrs)  <br>• 🛠️ Skilled in Flutter, Dart, Firebase, Clean Code, MVVM & Clean Architecture<br>• ⚡ State Management | RESTful APIs | Postman | Figma  <br>• 🤝 Technical + Communication Blend  <br>• 🤝 HR Member at ICPC Tanta Community<br>• 💻 Passionate Problem Solver<br>• 💼 Open for Junior Roles / Internships / Freelance  </h3>
+<h3 align="left"> About Me<br><br>• 📱 Junior Flutter Developer  <br>• 🔥 Passionate Mobile App Builder (Flutter & Dart)  <br>• 🚀 ITI Flutter Bootcamp Graduate (120+ hrs)  <br>• 🛠️ Skilled in Flutter, Dart, Firebase, Clean Code, MVVM & Clean Architecture<br>• ⚡ State Management | RESTful APIs | Postman | Figma  <br>• 🤝 Technical + Communication Blend  <br>• 🤝 HR Member at ICPC Tanta Community<br>• 💻 Passionate Problem Solver<br>• 💼 Open for Junior Roles / Internships / Freelance  </h3>
 
 ###
 
